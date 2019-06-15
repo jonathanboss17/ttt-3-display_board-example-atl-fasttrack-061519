@@ -39,7 +39,7 @@ for i in x do
     print "-----"
     puts ""
     
-  end
+  
   
 end
 #why does this not work
