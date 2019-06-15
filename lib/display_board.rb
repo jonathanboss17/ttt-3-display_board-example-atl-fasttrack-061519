@@ -25,6 +25,8 @@
       print i
     end
     
+    puts ""
+    
  end
 
 
