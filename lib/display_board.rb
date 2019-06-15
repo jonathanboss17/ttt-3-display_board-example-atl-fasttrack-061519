@@ -27,22 +27,6 @@
     
  end
 
-x = [" ", "|", " ", "|", " "] #5 = row.length
-
-#retry / redo?
-for i in x do 
-
-  print i 
-  
-  if i == x.length - 1 
-    puts ""
-    print "-----"
-    puts ""
-    retry
-  end
-  
-end
-#why does this not work
 
 
 #adding method 
