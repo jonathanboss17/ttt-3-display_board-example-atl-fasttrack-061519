@@ -34,12 +34,12 @@ for i in x do
 
   print i 
   
-  retry if i > x.length - 1 
+  if i == x.length - 1 
     puts ""
     print "-----"
     puts ""
-    
-  
+    retry
+  end
   
 end
 #why does this not work
