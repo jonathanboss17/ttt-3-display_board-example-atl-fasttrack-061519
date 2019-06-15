@@ -29,7 +29,7 @@
 
 x = [" ", "|", " ", "|", " "] #5 = row.length
 
-
+#retry / redo?
 for i in x do 
 
   print i 
