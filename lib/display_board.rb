@@ -38,7 +38,7 @@ for i in x do
     puts ""
     print "-----"
     puts ""
-    redo
+    retry
   end
   
 end
